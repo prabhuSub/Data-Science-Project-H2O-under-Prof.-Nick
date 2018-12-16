@@ -1,0 +1,194 @@
+,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,predict
+0,female,group B,associate's degree,standard,none,71,83,78,72.43190073920874
+1,male,group C,associate's degree,standard,none,58,54,52,59.073251887686816
+2,male,group C,high school,standard,none,70,70,65,72.8520710381347
+3,female,group D,some high school,free/reduced,none,50,64,59,50.9908978364855
+4,female,group B,associate's degree,standard,none,53,58,65,56.91305180638036
+5,female,group D,associate's degree,free/reduced,completed,57,74,76,61.62228039838622
+6,male,group E,some college,standard,none,53,55,48,61.80385549149501
+7,male,group E,associate's degree,free/reduced,completed,77,69,68,72.50108490410335
+8,male,group C,some college,standard,none,53,44,42,49.84459878936266
+9,male,group D,high school,standard,none,88,78,75,82.14025274473002
+10,male,group E,bachelor's degree,free/reduced,completed,79,74,72,75.89295259734747
+11,female,group D,bachelor's degree,standard,none,65,67,62,55.91291434340661
+12,female,group D,associate's degree,standard,none,85,91,89,81.57829743956547
+13,female,group D,some college,standard,none,51,58,54,49.016886627293005
+14,female,group D,bachelor's degree,standard,none,78,82,79,71.61301462341538
+15,male,group B,some high school,standard,none,72,68,67,74.47552812881688
+16,male,group D,some college,standard,completed,65,77,74,77.64553092375994
+17,male,group E,some college,free/reduced,completed,87,74,70,75.50036310735769
+18,female,group D,bachelor's degree,standard,completed,68,75,81,67.92834086369184
+19,male,group C,high school,standard,none,52,53,49,57.3271077866992
+20,female,group E,master's degree,standard,none,81,92,91,86.40321136554054
+21,female,group C,bachelor's degree,standard,completed,96,100,100,87.34713588935291
+22,male,group A,high school,standard,completed,72,73,74,76.54799865060708
+23,female,group D,associate's degree,standard,none,65,69,70,62.67179088328989
+24,male,group B,some high school,free/reduced,none,48,52,45,51.785257976220464
+25,female,group B,some high school,standard,none,62,64,66,59.67984903752988
+26,female,group C,master's degree,standard,completed,69,84,85,71.96689714787638
+27,female,group B,some college,free/reduced,none,45,53,55,45.72428811523719
+28,female,group C,associate's degree,standard,completed,67,84,86,74.15479802012796
+29,male,group C,some college,standard,none,59,41,42,49.065653638693526
+30,male,group E,bachelor's degree,standard,none,82,62,62,72.34718921461221
+31,female,group B,some college,free/reduced,none,74,81,76,67.57755256422317
+32,male,group D,some high school,free/reduced,completed,80,79,79,78.58094859872689
+33,male,group B,some high school,standard,completed,84,83,75,80.66972158145013
+34,male,group B,associate's degree,standard,none,87,85,73,82.54168028926661
+35,female,group C,some high school,free/reduced,none,55,65,62,53.067190925816405
+36,female,group B,associate's degree,standard,completed,52,66,73,61.28970657411893
+37,male,group D,high school,standard,none,57,50,54,60.28698829574403
+38,male,group B,some college,standard,none,54,52,51,59.00790882091293
+39,female,group E,bachelor's degree,standard,none,80,83,83,79.32026321732809
+40,female,group B,high school,standard,none,65,64,62,56.98444639028746
+41,female,group B,some college,standard,none,70,75,78,70.66688236485797
+42,male,group B,bachelor's degree,free/reduced,none,73,56,57,59.958474517271526
+43,female,group D,some college,free/reduced,completed,70,78,78,64.36191021808418
+44,female,group B,some high school,standard,none,37,46,46,41.11750221979376
+45,male,group B,associate's degree,standard,completed,81,82,82,84.75663663357102
+46,female,group B,some high school,standard,none,67,89,82,77.28199935741642
+47,male,group D,high school,free/reduced,completed,78,77,80,78.838418162802
+48,male,group C,high school,free/reduced,completed,40,46,50,49.68964772068864
+49,female,group C,associate's degree,standard,completed,74,75,83,69.73466118106235
+50,female,group C,associate's degree,free/reduced,completed,68,67,69,54.67704846240546
+51,female,group C,bachelor's degree,standard,completed,59,64,75,60.6389491891716
+52,male,group C,high school,standard,none,71,66,65,71.81347750390916
+53,male,group C,associate's degree,standard,none,83,72,78,81.80220147953928
+54,female,group C,some college,standard,none,71,81,80,72.77742145564373
+55,male,group D,some high school,standard,completed,76,70,69,72.55812770045979
+56,female,group B,high school,standard,completed,69,76,74,65.1774298749958
+57,male,group E,associate's degree,standard,none,87,74,76,85.86915236417569
+58,female,group B,bachelor's degree,standard,none,61,72,70,63.33618874731801
+59,male,group A,associate's degree,standard,none,63,61,61,67.06377570058575
+60,female,group C,some college,free/reduced,completed,42,66,69,54.72956877294938
+61,male,group D,some college,free/reduced,none,59,62,61,64.72081598209542
+62,female,group B,high school,standard,none,58,62,59,54.381848236116504
+63,male,group A,bachelor's degree,free/reduced,completed,49,58,60,58.39193217014655
+64,male,group A,high school,free/reduced,none,48,45,41,46.359178808988396
+65,female,group C,associate's degree,standard,none,85,89,95,84.9589467652854
+66,male,group B,some high school,standard,none,74,63,57,66.23294825417436
+67,male,group D,some high school,standard,none,60,59,54,62.54149121224966
+68,female,group C,some high school,standard,completed,59,54,67,53.68557752952646
+69,male,group A,some college,standard,none,53,43,43,50.20246516832205
+70,female,group A,some high school,standard,completed,59,85,80,70.68539773052284
+71,male,group C,some high school,free/reduced,none,69,71,65,69.77103437558829
+72,male,group A,some high school,free/reduced,none,65,59,53,58.24512919150868
+73,male,group C,some high school,free/reduced,none,68,63,54,60.055075554590566
+74,male,group C,high school,standard,none,61,56,55,62.27265571148472
+75,male,group C,some high school,standard,none,73,66,66,72.4255787640934
+76,male,group C,some college,free/reduced,completed,50,48,53,52.007608899332936
+77,male,group D,associate's degree,standard,none,75,68,64,71.30819148699256
+78,female,group C,some college,standard,completed,67,81,79,68.82698499375671
+79,female,group D,high school,standard,none,78,81,80,73.32871511245406
+80,female,group B,associate's degree,standard,none,73,83,76,71.04303314783661
+81,male,group B,high school,standard,none,47,46,42,51.48475133392675
+82,male,group C,some college,free/reduced,none,65,58,49,55.0823602183535
+83,female,group D,bachelor's degree,standard,none,79,89,89,80.37489126517067
+84,female,group D,associate's degree,free/reduced,none,26,31,38,27.324918335592432
+85,female,group C,associate's degree,standard,completed,83,85,90,77.19218158642859
+86,female,group B,associate's degree,standard,none,49,52,54,47.716389752495395
+87,male,group D,some college,free/reduced,none,61,47,56,57.35392125031936
+88,male,group B,some high school,standard,completed,64,53,57,60.38046175240954
+89,male,group E,some college,standard,none,76,71,72,82.6246407248626
+90,female,group B,associate's degree,standard,completed,94,87,92,79.93656474683812
+91,male,group C,some college,free/reduced,none,63,61,54,59.33347434745296
+92,female,group E,associate's degree,standard,completed,95,89,92,84.55616442092202
+93,male,group D,some high school,free/reduced,none,62,49,52,55.297787274712746
+94,female,group E,some college,standard,completed,66,74,73,67.77936524364141
+95,female,group C,associate's degree,standard,none,91,86,84,76.5412298620696
+96,female,group C,high school,free/reduced,none,36,53,43,36.839500740606475
+97,male,group B,high school,standard,completed,73,69,68,72.25594017736016
+98,male,group C,high school,standard,completed,75,69,68,71.4197213754355
+99,female,group D,associate's degree,standard,none,82,95,89,82.616890973791
+100,female,group B,associate's degree,standard,none,40,48,50,43.90006103552562
+101,male,group D,some college,free/reduced,none,77,62,64,66.8041173691536
+102,female,group D,some college,standard,completed,74,75,79,67.53575137370206
+103,female,group C,high school,free/reduced,completed,50,66,64,51.54203677004574
+104,female,group B,high school,standard,none,81,91,89,82.74466522983344
+105,female,group D,associate's degree,standard,completed,73,75,80,67.91801647528781
+106,female,group A,some high school,standard,none,48,66,65,58.59157417386164
+107,male,group E,bachelor's degree,standard,none,68,68,64,75.29394710732262
+108,female,group E,high school,standard,none,74,76,73,71.83930165248181
+109,female,group D,high school,standard,none,69,77,73,67.4290850084261
+110,female,group C,associate's degree,standard,none,85,84,82,74.6330655035847
+111,female,group C,some college,standard,none,58,59,66,57.34308387779845
+112,male,group D,bachelor's degree,standard,none,88,78,83,86.4148080333095
+113,male,group C,associate's degree,free/reduced,completed,65,73,68,68.60315672943311
+114,male,group B,bachelor's degree,free/reduced,none,62,63,56,61.08157940648016
+115,male,group D,some college,free/reduced,none,49,57,46,53.0060671290226
+116,male,group D,some college,standard,none,67,64,70,74.74836942098369
+117,female,group B,bachelor's degree,standard,completed,66,74,81,68.23825460077643
+118,male,group A,high school,standard,none,71,74,64,73.11931174350386
+119,male,group E,some college,standard,none,86,76,74,85.31175023401664
+120,female,group E,high school,standard,completed,74,79,80,74.22328070675242
+121,female,group B,high school,standard,none,50,53,55,49.26727760136481
+122,female,group A,associate's degree,standard,completed,65,70,74,62.109596068935566
+123,male,group C,associate's degree,free/reduced,none,77,67,64,67.52353391155154
+124,female,group C,some high school,free/reduced,completed,50,60,60,47.124078750461386
+125,male,group D,associate's degree,free/reduced,none,52,57,50,55.471633617666534
+126,female,group D,high school,standard,completed,69,77,78,67.64525132065543
+127,female,group C,some high school,standard,completed,70,82,76,67.20563643027974
+128,male,group D,some college,free/reduced,none,63,61,60,63.766733802852976
+129,female,group E,associate's degree,free/reduced,none,73,76,78,71.45631245068421
+130,male,group C,high school,free/reduced,none,66,66,59,64.38852221919183
+131,female,group E,bachelor's degree,standard,completed,79,81,82,74.85052998832829
+132,female,group D,some college,standard,none,63,64,67,59.602416272550094
+133,female,group B,associate's degree,free/reduced,completed,76,94,87,75.02358194270155
+134,female,group B,associate's degree,free/reduced,completed,68,77,80,65.74852285244062
+135,male,group A,some high school,free/reduced,none,55,46,43,47.9253622484151
+136,male,group D,some high school,standard,none,55,47,44,52.48137265271245
+137,male,group C,master's degree,standard,none,67,57,59,63.219766531592846
+138,male,group D,bachelor's degree,standard,none,80,73,72,77.47779436298092
+139,male,group D,some high school,standard,completed,71,69,68,71.60404552121736
+140,female,group C,high school,free/reduced,none,53,72,64,56.35592973758502
+141,female,group D,some high school,standard,none,68,71,75,67.17772976295811
+142,male,group A,some college,free/reduced,none,58,60,57,61.080208317784454
+143,male,group D,bachelor's degree,standard,none,75,73,74,78.86666195435305
+144,female,group C,bachelor's degree,free/reduced,none,62,78,79,67.04941189730523
+145,female,group B,high school,standard,none,66,72,70,64.617103824227
+146,female,group B,some high school,standard,completed,32,51,44,37.7708738800026
+147,female,group B,high school,standard,none,48,62,60,55.076282031802556
+148,female,group D,some college,free/reduced,none,60,66,70,58.94666191612008
+149,male,group D,high school,standard,none,70,70,70,76.59089669784865
+150,female,group E,associate's degree,free/reduced,none,70,84,81,75.61680090619346
+151,male,group C,some high school,standard,completed,76,80,73,77.66569003748421
+152,male,group C,high school,standard,none,90,75,69,76.92804813866086
+153,male,group D,bachelor's degree,free/reduced,completed,61,70,76,72.96222921825407
+154,female,group A,some high school,standard,completed,85,90,92,80.31684519653749
+155,male,group E,some college,free/reduced,completed,49,52,51,56.593856551082105
+156,male,group B,some high school,standard,none,68,54,53,61.118377619422674
+157,female,group C,bachelor's degree,free/reduced,completed,74,86,89,72.81493425641592
+158,female,group C,high school,standard,completed,60,64,74,61.225430470394535
+159,female,group A,high school,standard,completed,75,82,79,69.29435131966946
+160,female,group B,high school,free/reduced,completed,23,44,36,27.22184485452028
+161,female,group A,high school,standard,none,61,68,63,57.8043358851041
+162,female,group C,some college,standard,completed,71,71,80,66.92493495387892
+163,male,group E,associate's degree,free/reduced,completed,78,74,72,76.57706200462951
+164,male,group C,associate's degree,free/reduced,none,49,51,51,54.34152043073064
+165,male,group B,high school,standard,none,59,58,47,58.07270091503366
+166,male,group E,associate's degree,free/reduced,none,90,90,82,90.93177676459322
+167,male,group C,some college,free/reduced,none,80,64,66,68.44562504635482
+168,female,group D,some college,free/reduced,none,69,65,74,61.46474871530794
+169,male,group D,some high school,standard,completed,88,74,75,77.76332400880169
+170,female,group E,associate's degree,standard,none,59,62,69,64.82968343032125
+171,female,group E,some high school,free/reduced,none,32,34,38,33.28820164799883
+172,male,group B,high school,free/reduced,none,36,29,27,33.39586936757637
+173,female,group C,bachelor's degree,standard,completed,52,61,66,53.6100998773279
+174,female,group C,bachelor's degree,free/reduced,completed,47,62,66,50.61139575028333
+175,male,group B,some college,standard,completed,91,96,91,94.95378685863524
+176,female,group C,high school,free/reduced,none,35,53,46,38.922802127664646
+177,male,group D,high school,standard,none,72,66,66,72.77456798087889
+178,male,group E,associate's degree,free/reduced,none,64,56,52,61.27071785309439
+179,female,group D,high school,free/reduced,completed,65,61,71,55.371488103349904
+180,male,group E,associate's degree,free/reduced,completed,46,43,44,49.083815835171926
+181,male,group A,associate's degree,standard,none,67,57,53,60.469711800871714
+182,female,group D,some college,standard,completed,75,77,83,70.83278332355907
+183,male,group E,associate's degree,standard,none,72,57,62,71.73305670411233
+184,male,group C,high school,standard,none,75,81,71,79.87480603137126
+185,female,group C,some high school,free/reduced,completed,65,76,75,61.69495982265442
+186,male,group A,some high school,standard,completed,66,68,64,68.22308624046278
+187,female,group E,associate's degree,standard,none,68,76,67,67.07589320873849
+188,female,group D,some college,free/reduced,completed,67,86,83,69.91126626496555
+189,female,group D,associate's degree,free/reduced,none,55,76,76,65.39757983169997
+190,female,group D,bachelor's degree,free/reduced,none,62,72,74,62.28600929882028
+191,male,group C,high school,free/reduced,none,62,55,55,58.754654817327385
+192,female,group D,some college,free/reduced,none,77,86,86,75.2505703182247

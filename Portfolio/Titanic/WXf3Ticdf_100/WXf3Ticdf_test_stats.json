@@ -1,0 +1,9 @@
+{
+    "mse": 80.0351849526831,
+    "rmse": 8.946238592429955,
+    "null_degrees_of_freedom": 151,
+    "residual_degrees_of_freedom": 147,
+    "residual_deviance": 12165.348112807831,
+    "null_deviance": 32605.724214156442,
+    "aic": 1109.4921992780341
+}

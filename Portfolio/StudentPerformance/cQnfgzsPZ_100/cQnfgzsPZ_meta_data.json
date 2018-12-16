@@ -1,0 +1,52 @@
+{
+    "start_time": 1544825049.7697482,
+    "target": null,
+    "server_path": "C:\\Users\\prabh",
+    "data_path": "C:/Users/prabh/Desktop/ML/Project ML/Dataset/StudentsPerformance.csv",
+    "test_path": null,
+    "max_models": 9,
+    "run_time": 100,
+    "run_id": "cQnfgzsPZ",
+    "scale": false,
+    "classification": false,
+    "model_path": null,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "project": null,
+    "end_time": 1544825145.2452476,
+    "execution_time": 95.47549939155579,
+    "run_path": "C:\\Users\\prabh\\cQnfgzsPZ",
+    "nthreads": 1,
+    "min_mem_size": 5,
+    "analysis": 0,
+    "X": [
+        "reading score",
+        "writing score",
+        "gender",
+        "race/ethnicity",
+        "parental level of education",
+        "lunch",
+        "test preparation course"
+    ],
+    "variables": {
+        "gender": "enum",
+        "race/ethnicity": "enum",
+        "parental level of education": "enum",
+        "lunch": "enum",
+        "test preparation course": "enum",
+        "math score": "int",
+        "reading score": "int",
+        "writing score": "int"
+    },
+    "model_execution_time": 93.790935754776,
+    "mod_best": "GLM_grid_1_AutoML_20181214_170410_model_1",
+    "mod_best_algo": "glm",
+    "models": [
+        "GLM_grid_1_AutoML_20181214_170410_model_1",
+        "DeepLearning_grid_1_AutoML_20181214_170410_model_2",
+        "GBM_grid_1_AutoML_20181214_170410_model_1",
+        "DRF_1_AutoML_20181214_170410",
+        "XRT_1_AutoML_20181214_170410",
+        "StackedEnsemble_BestOfFamily_AutoML_20181214_170410"
+    ]
+}
