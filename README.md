@@ -44,6 +44,3 @@ Keeping all this in mind, we can take the following approach:
 3.	Tune tree-specific parameters for decided learning rate and a number of trees. Note that we can choose different parameters to define a tree and I’ll take up an example here.
 4.	Lower the learning rate and increase the estimators proportionally to get more robust models.
 Finally, once we achieve the best fit model with the metrics, we store the values of these hyperparameters to a JSON file that is generated and the best model fit and maintain a data as shown.
-
- 
-The JSON files consist of the best values of the metrics, which will be used further to host the database as shown below.
