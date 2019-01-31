@@ -1,4 +1,4 @@
-# Data-Science-Project-H2O-under-Prof.-Nick
+# Hyperparameter Databse using H2O under Prof. Nick Bear Brown
 H2O Parameters and model analysis
 Trying to find the Hyperparameters for different dataset by running various Algorithms from H2OAutoML in python. We will be using Algorithms of types Common, Supervised, Unsupervised and Miscellaneous from H2O for different datasets from Kaggle/UCI. We will be running the Algorithms for different datasets on given a different point of time, trying to generate the Hyperparameters like rmse, mse, mean residual deviation, mae, and rmsle and store them for determining the best possible parameters to use. At the same time, we are going to save the model for which the data set has been run to avoid generating the model every time we run for the Kaggle dataset and instead, load it at the first time. The Hyperparameters that we generate for different periods (50,300,500,150sec) will be stored in a relational database. Also, we will be generating the JSON file for the respective dataset and model and store the same.
 
