@@ -33,9 +33,7 @@ Apart from these, there are certain miscellaneous parameters which affect overal
 11.	Init: This affects initialization of the output. This can be used if we have made another model whose outcome is to be used as the initial estimates for GBM.
 12.	random_state: The random number seed so that same random numbers are generated every time. This is important for parameter tuning. If we don’t fix the random number, then we’ll have different outcomes for subsequent runs on the same parameters and it becomes difficult to compare models. It can potentially result in overfitting to a particular random sample selected. We can try running models for different random samples, which is computationally expensive and generally not used.
 13.	Verbose: The type of output to be printed when the model fits. The different values can be:
-0: no output generated (default)
-1: output generated for trees at certain intervals
->1: output generated for all trees
+
 14.	warm_start: This parameter has an interesting application and can help a lot if used judicially. Using this, we can fit additional trees on previous fits of a model. It can save a lot of time and you should explore this option for advanced applications
 15.	presort: Select whether to presort data for faster splits. It makes the selection automatically by default but it can be changed if needed.
 Approach:
